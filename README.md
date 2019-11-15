@@ -12,3 +12,14 @@ In the previous work, the evaluation of sentence similarity measurement was only
 1. How does sentence similarity measurement resemble with human judge?
 2. ...
 
+
+## Benchmark
+1. STSS-131
+
+  STSS-131 Short Text Semantic Similarity Benchmark Data Set: Extract from “A new benchmark dataset with production methodology for Short Text Semantic Similarity algorithms” from James D. O’Shea, Zuhair A, Bandar, Keeley A. Crockett. The first column is the number of the sentence pair. The second is the two sentences making up the pair. The third is the semantic similarity rating calculated as the average of the human ratings for the sentence pair (0.00 – 4.00).
+  30 pairs of sentences (sarting from 65) are used to evaluate the similarity measurement.
+  
+2. SICK
+
+The SICK data set consists of 10,000 English sentence pairs, built starting from two existing paraphrase sets: the 8K ImageFlickr data set (http://nlp.cs.illinois.edu/HockenmaierGroup/data.html) and the SEMEVAL-2012 Semantic Textual Similarity Video Descriptions data set 
+(http://www.cs.york.ac.uk/semeval-2012/task6/index.php?id=data). Each sentence pair is annotated for relatedness in meaning and for the entailment relation between the two elements.
