@@ -1,0 +1,31 @@
+pair_ID,sentence_A,sentence_B,relatedness_score
+1,A group of kids is playing in a yard and an old man is standing in the background,A group of boys in a yard is playing and a man is standing in the background,4.5
+2,A group of children is playing in the house and there is no man standing in the background,A group of kids is playing in a yard and an old man is standing in the background,3.2
+3,The young boys are playing outdoors and the man is smiling nearby,The kids are playing outdoors near a man with a smile,4.7
+4,The young boys are playing outdoors and the man is smiling nearby,There is no boy playing outdoors and there is no man smiling,3.6
+5,The kids are playing outdoors near a man with a smile,A group of kids is playing in a yard and an old man is standing in the background,3.4
+6,There is no boy playing outdoors and there is no man smiling,A group of kids is playing in a yard and an old man is standing in the background,3.3
+7,A group of boys in a yard is playing and a man is standing in the background,The young boys are playing outdoors and the man is smiling nearby,3.7
+8,A group of children is playing in the house and there is no man standing in the background,The young boys are playing outdoors and the man is smiling nearby,3
+9,The young boys are playing outdoors and the man is smiling nearby,A group of kids is playing in a yard and an old man is standing in the background,3.7
+10,A brown dog is attacking another animal in front of the tall man in pants,A brown dog is attacking another animal in front of the man in pants,4.9
+11,A brown dog is attacking another animal in front of the man in pants,A brown dog is helping another animal in front of the man in pants,3.665
+12,Two dogs are fighting,Two dogs are wrestling and hugging,4
+13,Two dogs are wrestling and hugging,There is no dog wrestling and hugging,3.3
+14,A brown dog is attacking another animal in front of the man in pants,Two dogs are fighting,3.5
+15,A brown dog is attacking another animal in front of the man in pants,There is no dog wrestling and hugging,2.7
+16,Two dogs are wrestling and hugging,A brown dog is attacking another animal in front of the tall man in pants,2.9
+17,Two dogs are wrestling and hugging,A brown dog is helping another animal in front of the man in pants,2.3
+18,A brown dog is attacking another animal in front of the man in pants,Two dogs are wrestling and hugging,3.2
+19,A person in a black jacket is doing tricks on a motorbike,A man in a black jacket is doing tricks on a motorbike,4.9
+20,There is no man in a black jacket doing tricks on a motorbike,A person in a black jacket is doing tricks on a motorbike,3.6
+21,A person in a black jacket is doing tricks on a motorbike,A person on a black motorbike is doing tricks with a jacket,3
+22,A skilled person is riding a bicycle on one wheel,A person is riding the bicycle on one wheel,4.3
+23,Nobody is riding the bicycle on one wheel,A person is riding the bicycle on one wheel,4.1
+24,A person in a black jacket is doing tricks on a motorbike,A skilled person is riding a bicycle on one wheel,3.4
+25,Nobody is riding the bicycle on one wheel,A person in a black jacket is doing tricks on a motorbike,2.8
+26,A person is riding the bicycle on one wheel,A man in a black jacket is doing tricks on a motorbike,3.7
+27,A person is riding the bicycle on one wheel,There is no man in a black jacket doing tricks on a motorbike,3.2
+28,A person on a black motorbike is doing tricks with a jacket,A person is riding the bicycle on one wheel,3.4
+29,A person is riding the bicycle on one wheel,A person in a black jacket is doing tricks on a motorbike,3.3
+30,A man with a jersey is dunking the ball at a basketball game,The ball is being dunked by a man with a jersey at a basketball game,4.9
